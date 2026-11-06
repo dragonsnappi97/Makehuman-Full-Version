@@ -241,4 +241,4 @@ This repository serves as the official landing page for MakeHuman. The software 
 **Get the most recent version of MakeHuman today!**
 
 ---
-**Last updated:** 2026-11-06 08:35:37 UTC
+**Last updated:** 2026-11-06 16:20:53 UTC
